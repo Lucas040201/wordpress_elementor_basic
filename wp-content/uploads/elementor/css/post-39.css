@@ -1,0 +1,115 @@
+.elementor-39 .elementor-element.elementor-element-7bcef5f .elementor-heading-title{font-family:"Recoleta", Sans-serif;font-size:30px;font-weight:700;line-height:40.8px;}.elementor-39 .elementor-element.elementor-element-7b72333{color:#000000;font-family:"Wotfard", Sans-serif;font-size:16px;font-weight:400;line-height:24px;}.elementor-39 .elementor-element.elementor-element-da9c277 .elementor-heading-title{font-family:"Recoleta", Sans-serif;font-size:30px;font-weight:700;line-height:40.8px;}.elementor-39 .elementor-element.elementor-element-e7dbca3{color:#000000;font-family:"Wotfard", Sans-serif;font-size:16px;font-weight:400;line-height:24px;}.elementor-39 .elementor-element.elementor-element-6501cbd .elementor-heading-title{font-family:"Recoleta", Sans-serif;font-size:30px;font-weight:700;line-height:40.8px;}.elementor-39 .elementor-element.elementor-element-a32256d{color:#000000;font-family:"Wotfard", Sans-serif;font-size:16px;font-weight:400;line-height:24px;}.elementor-39 .elementor-element.elementor-element-b953a70:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-39 .elementor-element.elementor-element-b953a70 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-primary );}.elementor-39 .elementor-element.elementor-element-b953a70 > .elementor-element-populated, .elementor-39 .elementor-element.elementor-element-b953a70 > .elementor-element-populated > .elementor-background-overlay, .elementor-39 .elementor-element.elementor-element-b953a70 > .elementor-background-slideshow{border-radius:8px 8px 8px 8px;}.elementor-39 .elementor-element.elementor-element-b953a70 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-39 .elementor-element.elementor-element-b953a70 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-39 .elementor-element.elementor-element-85ade73{text-align:center;}.elementor-39 .elementor-element.elementor-element-7bcef5f{text-align:center;}.elementor-39 .elementor-element.elementor-element-7b72333{text-align:center;}.elementor-39 .elementor-element.elementor-element-da9c277{text-align:center;}.elementor-39 .elementor-element.elementor-element-e7dbca3{text-align:center;}.elementor-39 .elementor-element.elementor-element-6501cbd{text-align:center;}.elementor-39 .elementor-element.elementor-element-a32256d{text-align:center;}}@media(max-width:767px){.elementor-39 .elementor-element.elementor-element-b953a70 > .elementor-element-populated{padding:20px 20px 20px 20px;}}@media(max-width:1024px) and (min-width:768px){.elementor-39 .elementor-element.elementor-element-6c36252{width:100%;}.elementor-39 .elementor-element.elementor-element-b953a70{width:100%;}}/* Start custom CSS for text-editor, class: .elementor-element-7b72333 */.elementor-39 .elementor-element.elementor-element-7b72333 a {
+    color: #000;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-e7dbca3 */.elementor-39 .elementor-element.elementor-element-e7dbca3 a {
+    color: #000;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-a32256d */.elementor-39 .elementor-element.elementor-element-a32256d a {
+    color: #000;
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-68b556d */.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0px 20px 0px;
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form span {
+    color: red;
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form p {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form label {
+    width: 100%;
+    text-align: center;
+    font-family: Recoleta;
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form input, .elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form textarea {
+    font-family: Wotfard;
+    max-width: 497px;
+    width:100%;
+    margin: 20px 0 10px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form input {
+    height: 60px;
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form textarea {
+    height: 200px
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d input.wpcf7-submit {
+    height: 56px;
+    max-width: 497px;
+    width: 100%;
+    display: block;
+    color: #000;
+    background-color: #fff;
+    border: none;
+}
+
+.elementor-39 .elementor-element.elementor-element-68b556d .wpcf7-form .wpcf7-spinner {
+    display: none;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-b953a70 */.elementor-39 .elementor-element.elementor-element-b953a70 {
+    color: #fff;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.svg#Recoleta') format('svg');
+}
+@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.svg#Recoleta') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Wotfard';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.svg#Wotfard') format('svg');
+}
+@font-face {
+	font-family: 'Wotfard';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.svg#Wotfard') format('svg');
+}
+/* End Custom Fonts CSS */

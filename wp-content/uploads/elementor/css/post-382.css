@@ -1,0 +1,40 @@
+.elementor-382 .elementor-element.elementor-element-f0c7254 .elementor-nav-menu .elementor-item{font-family:"Wotfard", Sans-serif;font-size:16px;font-weight:400;line-height:24px;}.elementor-382 .elementor-element.elementor-element-f0c7254 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-382 .elementor-element.elementor-element-f0c7254 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-382 .elementor-element.elementor-element-f0c7254 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-382 .elementor-element.elementor-element-f0c7254 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-382 .elementor-element.elementor-element-f0c7254 .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-382 .elementor-element.elementor-element-8a4e799 .elementor-button{font-family:"Wotfard", Sans-serif;font-weight:400;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-secondary );}#elementor-popup-modal-382 .dialog-message{width:640px;height:100vh;align-items:flex-start;}#elementor-popup-modal-382{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-382 .dialog-close-button{display:flex;}#elementor-popup-modal-382 .dialog-widget-content{background-color:var( --e-global-color-primary );box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-382 .dialog-close-button i{color:var( --e-global-color-secondary );}#elementor-popup-modal-382 .dialog-close-button svg{fill:var( --e-global-color-secondary );}@media(max-width:1024px){#elementor-popup-modal-382 .dialog-message{width:1000px;}#elementor-popup-modal-382{justify-content:center;align-items:center;}#elementor-popup-modal-382 .dialog-close-button{font-size:25px;}}/* Start custom CSS for theme-site-logo, class: .elementor-element-f487df2 */.elementor-382 .elementor-element.elementor-element-f487df2 {
+    text-align: left;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-6c8e66c */.elementor-382 .elementor-element.elementor-element-6c8e66c {
+    text-align: center;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-3a520cd */.elementor-382 .elementor-element.elementor-element-3a520cd {
+    height: 100%
+}/* End custom CSS */
+/* Start custom CSS */#elementor-popup-modal-382 {
+    z-index: 99999999;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Wotfard';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.svg#Wotfard') format('svg');
+}
+@font-face {
+	font-family: 'Wotfard';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.svg#Wotfard') format('svg');
+}
+/* End Custom Fonts CSS */

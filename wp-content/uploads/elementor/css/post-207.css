@@ -1,0 +1,25 @@
+.elementor-207 .elementor-element.elementor-element-d93ad11 .elementor-heading-title{font-family:"Recoleta", Sans-serif;font-size:60px;font-weight:700;line-height:81.6px;}.elementor-207 .elementor-element.elementor-element-d93ad11 > .elementor-widget-container{padding:70px 0px 70px 0px;}.elementor-207 .elementor-element.elementor-element-a88271d{color:var( --e-global-color-primary );}.elementor-207 .elementor-element.elementor-element-c147272 .elementor-heading-title{font-family:"Recoleta", Sans-serif;font-size:30px;font-weight:700;line-height:81.6px;}.elementor-207 .elementor-element.elementor-element-35160be{color:var( --e-global-color-primary );}.elementor-207 .elementor-element.elementor-element-c1fc541 .elementor-heading-title{font-family:"Recoleta", Sans-serif;font-size:30px;font-weight:700;line-height:81.6px;}.elementor-207 .elementor-element.elementor-element-f1c8ad9{color:var( --e-global-color-primary );}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-207 .elementor-element.elementor-element-92b3d7d > .elementor-element-populated{padding:40px 40px 40px 40px;}}@media(max-width:767px){.elementor-207 .elementor-element.elementor-element-92b3d7d > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-207 .elementor-element.elementor-element-d93ad11 .elementor-heading-title{font-size:48px;}.elementor-207 .elementor-element.elementor-element-c147272 .elementor-heading-title{line-height:45px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.svg#Recoleta') format('svg');
+}
+@font-face {
+	font-family: 'Recoleta';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot');
+	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff2') format('woff2'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff') format('woff'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.ttf') format('truetype'),
+		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.svg#Recoleta') format('svg');
+}
+/* End Custom Fonts CSS */
