@@ -1,26 +1,26 @@
-.elementor-kit-66{--e-global-color-primary:#000000;--e-global-color-secondary:#FFFFFF;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Recoleta";--e-global-typography-primary-font-size:60px;--e-global-typography-primary-font-weight:700;--e-global-typography-primary-line-height:81.6px;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Wotfard";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:24px;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-66 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+.elementor-kit-66{--e-global-color-primary:#000000;--e-global-color-secondary:#FFFFFF;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-1019df2:#333333;--e-global-typography-primary-font-family:"Recoleta";--e-global-typography-primary-font-size:60px;--e-global-typography-primary-font-weight:700;--e-global-typography-primary-line-height:81.6px;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Wotfard";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:24px;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-b78f404-font-family:"Recoleta";--e-global-typography-b78f404-font-size:60px;--e-global-typography-b78f404-font-weight:700;--e-global-typography-b78f404-line-height:81px;--e-global-typography-c6c0b62-font-family:"Recoleta";--e-global-typography-c6c0b62-font-size:48px;--e-global-typography-c6c0b62-font-weight:700;--e-global-typography-c6c0b62-line-height:65px;--e-global-typography-e508114-font-family:"Recoleta";--e-global-typography-e508114-font-size:29px;--e-global-typography-e508114-font-weight:700;--e-global-typography-e508114-line-height:48px;--e-global-typography-be25e8f-font-family:"Recoleta";--e-global-typography-be25e8f-font-size:32px;--e-global-typography-be25e8f-font-weight:700;--e-global-typography-be25e8f-line-height:40px;font-family:"Wotfard", Sans-serif, serif;font-size:16px;font-weight:400;line-height:24px;}.elementor-kit-66 a{font-family:"Wotfard", Sans-serif, serif;font-size:16px;font-weight:400;text-transform:none;line-height:24px;}.elementor-kit-66 a:hover{color:var( --e-global-color-text );}.elementor-kit-66 h1{font-size:60px;font-weight:700;line-height:81px;}.elementor-kit-66 h2{font-family:"Recoleta", Sans-serif, serif;font-size:48px;font-weight:700;line-height:65px;}.elementor-kit-66 h3{font-family:"Recoleta", Sans-serif, serif;font-size:30px;font-weight:700;line-height:48px;}.elementor-kit-66 h4{font-family:"Recoleta", Sans-serif, serif;font-size:24px;font-weight:700;line-height:32px;}.elementor-kit-66 h5{font-family:"Recoleta", Sans-serif, serif;font-size:21px;font-weight:700;line-height:28px;}.elementor-kit-66 h6{font-family:"Wotfard", Sans-serif, serif;font-size:16px;font-weight:400;line-height:21px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-kit-66{--e-global-typography-text-font-size:14px;--e-global-typography-text-line-height:21px;--e-global-typography-b78f404-font-size:48px;--e-global-typography-b78f404-line-height:65px;--e-global-typography-c6c0b62-font-size:39px;--e-global-typography-c6c0b62-line-height:53px;--e-global-typography-e508114-font-size:31px;--e-global-typography-e508114-line-height:42px;--e-global-typography-be25e8f-font-size:32px;--e-global-typography-be25e8f-line-height:40px;font-size:14px;}.elementor-kit-66 p{margin-bottom:20px;}.elementor-kit-66 h1{font-size:48px;line-height:65px;}.elementor-kit-66 h2{font-size:39px;line-height:53px;}.elementor-kit-66 h3{font-size:31px;line-height:42px;}.elementor-kit-66 h4{font-size:25px;line-height:34px;}.elementor-kit-66 h5{font-size:21px;line-height:28px;}.elementor-kit-66 h6{font-size:16px;line-height:21px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-66{--e-global-typography-text-font-size:14px;--e-global-typography-text-line-height:21px;--e-global-typography-b78f404-font-size:40px;--e-global-typography-b78f404-line-height:54px;--e-global-typography-c6c0b62-font-size:32px;--e-global-typography-c6c0b62-line-height:43px;--e-global-typography-e508114-font-size:27px;--e-global-typography-e508114-line-height:36px;--e-global-typography-be25e8f-font-size:23px;--e-global-typography-be25e8f-line-height:28px;font-size:14px;line-height:21px;}.elementor-kit-66 h1{font-size:40px;line-height:54px;}.elementor-kit-66 h2{font-size:32px;line-height:43px;}.elementor-kit-66 h3{font-size:27px;line-height:36px;}.elementor-kit-66 h4{font-size:23px;line-height:32px;}.elementor-kit-66 h5{font-size:19px;line-height:26px;}.elementor-kit-66 h6{font-size:14px;line-height:17px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
 	font-family: 'Recoleta';
 	font-style: normal;
 	font-weight: 400;
 	font-display: auto;
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot');
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot?#iefix') format('embedded-opentype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff2') format('woff2'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff') format('woff'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.ttf') format('truetype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular.svg#Recoleta') format('svg');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular.eot?#iefix') format('embedded-opentype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff2') format('woff2'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular.woff') format('woff'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular.ttf') format('truetype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular.svg#Recoleta') format('svg');
 }
 @font-face {
 	font-family: 'Recoleta';
 	font-style: normal;
 	font-weight: 700;
 	font-display: auto;
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot');
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot?#iefix') format('embedded-opentype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff2') format('woff2'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff') format('woff'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.ttf') format('truetype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Bold.svg#Recoleta') format('svg');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff2') format('woff2'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Bold.woff') format('woff'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Bold.ttf') format('truetype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Bold.svg#Recoleta') format('svg');
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS */@font-face {
@@ -28,23 +28,23 @@
 	font-style: normal;
 	font-weight: 400;
 	font-display: auto;
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot');
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot?#iefix') format('embedded-opentype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.woff2') format('woff2'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.woff') format('woff'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.ttf') format('truetype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Regular.svg#Wotfard') format('svg');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/RecoletaAlt-Regular-1.eot?#iefix') format('embedded-opentype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Regular.woff2') format('woff2'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Regular.woff') format('woff'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Regular.ttf') format('truetype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Regular.svg#Wotfard') format('svg');
 }
 @font-face {
 	font-family: 'Wotfard';
 	font-style: normal;
 	font-weight: 700;
 	font-display: auto;
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.eot');
-	src: url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.eot?#iefix') format('embedded-opentype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.woff2') format('woff2'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.woff') format('woff'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.ttf') format('truetype'),
-		url('http://localhost/kae/wp-content/uploads/2022/06/Wotfard-Bold.svg#Wotfard') format('svg');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Bold.eot');
+	src: url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Bold.woff2') format('woff2'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Bold.woff') format('woff'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Bold.ttf') format('truetype'),
+		url('http://198.211.116.42/wp-content/uploads/2022/06/Wotfard-Bold.svg#Wotfard') format('svg');
 }
 /* End Custom Fonts CSS */
